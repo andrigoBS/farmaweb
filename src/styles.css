@@ -1,0 +1,21 @@
+.navBarBackground{
+    background-image: url("./resource/bar.png");
+    /*background-color: #99ffe4;*/
+    background-position: center;
+    background-size: cover;
+}
+.buttonsClass{
+    background: #38E0B6;
+    border-color: #2dad8d;
+}
+.buttonsClass:hover, .buttonsClass:active, .buttonsClass:focus, .buttonsClass:visited{
+    background: #2dad8d;
+    border-color: #2dad8d;
+}
+
+.hrVertical{
+    border:         none;
+    border-left:    1px solid hsla(200, 10%, 50%,100);
+    height:         10rem;
+    width:          1px;
+}
