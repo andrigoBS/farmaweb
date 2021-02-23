@@ -1,3 +1,5 @@
+Projeto comparador de preço de remedio de farmacia
+
 This project was bootstrapped with [Create React Dash](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
