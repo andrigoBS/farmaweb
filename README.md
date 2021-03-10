@@ -9,7 +9,7 @@
 - - prop-types ^15.7.2
 - - react ^16.12.0
 - - react-routers ^5.1.2
-- 
+
 # Farma Compare Web (não finalizado) - PT/BR
 - Descrição:
   Farma compare web é um projeto de frontend react, que promete uma forma fácil de pesquisar e comparar medicamentos
