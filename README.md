@@ -1,4 +1,29 @@
-Projeto comparador de preço de remedio de farmacia
+# Farma Compare Web (unfinished) - EN/US
+- Description:
+  Farma compare web is a React frontend project, which promises an easy way to search and compare medicines
+  of any pharmacy, laboratory and type (generic, original, similar), considering the distance and calculation of passage or fuel.
+
+- Dependencies:
+- - bootstrap ^4.3.1
+- - google-maps-react" ^2.0.2
+- - prop-types ^15.7.2
+- - react ^16.12.0
+- - react-routers ^5.1.2
+- 
+# Farma Compare Web (não finalizado) - PT/BR
+- Descrição:
+  Farma compare web é um projeto de frontend react, que promete uma forma fácil de pesquisar e comparar medicamentos
+  de qualquer farmácia, laboratório e tipo (genérico, original, similar), considerando a distância e cálculo de passagem ou combustível.
+
+- Dependências:
+- - bootstrap ^4.3.1
+- - google-maps-react" ^2.0.2
+- - prop-types ^15.7.2
+- - react ^16.12.0
+- - react-routers ^5.1.2
+
+
+# REACT
 
 This project was bootstrapped with [Create React Dash](https://github.com/facebook/create-react-app).
 
